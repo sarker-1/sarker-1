@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Drive Now](https://github.com/rips61/Drive-Now)  
 - 🌱 I’m currently learning **Python**  
-- 👨‍💻 All of my projects are available at [https://github.com/rips61](https://github.com/sarker-1)  
+- 👨‍💻 All of my projects are available at [https://github.com/sarker-1](https://github.com/sarker-1)  
 - 📫 How to reach me **raisulislampranto1050@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
